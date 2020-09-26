@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "gaiters",
+      "id": "1",
+      "category": "Cheap",
+      "price": 100,
+      "description": "height socks with any color you like",
+      "image": "1.jpg"
+    },
+    {
+      "name": "short socks",
+      "id": "2",
+      "category": "Cheap",
+      "price": 200,
+      "description": "Jodeln",
+      "image": "2.jpg"
+    },
+    {
+      "name": "socks with fingers",
+      "id": "3",
+      "category": "Cheap",
+      "price": 300,
+      "description": "very nice",
+      "image": "3.jpg"
+    },
+    {
+      "name": "knee socks",
+      "id": "4",
+      "category": "EXP",
+      "price": 400,
+      "description": "air max socks",
+      "image": "4.jpg"
+    },
+    {
+      "name": "invisible socks",
+      "id": "5",
+      "category": "EXP",
+      "price": 500,
+      "description": "sqeed",
+      "image": "5.jpg"
+    },
+    {
+      "name": "loose",
+      "id": "6",
+      "category": "EXP",
+      "price": 600,
+      "description": "ъуъ",
+      "image": "6.jpg"
+    }
+  ]
+}

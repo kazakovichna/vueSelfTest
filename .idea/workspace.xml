@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hcOxZKBJIh7kWCB4bMuUBwDH7e" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SPORTS ALMANAC 1950 - 2000\vueSelfTest\client\src\assets\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="" />
+      <created>1600307161093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600307161093</updated>
+      <workItem from="1600307165339" duration="4000" />
+      <workItem from="1600311513894" duration="1161000" />
+      <workItem from="1600381173600" duration="1945000" />
+      <workItem from="1600389953307" duration="3144000" />
+      <workItem from="1600399840135" duration="5198000" />
+      <workItem from="1600415881811" duration="4887000" />
+      <workItem from="1600470320831" duration="4419000" />
+      <workItem from="1600486431513" duration="9368000" />
+      <workItem from="1600564821148" duration="3994000" />
+      <workItem from="1600578651202" duration="1424000" />
+      <workItem from="1600640066556" duration="15317000" />
+      <workItem from="1600671586424" duration="12310000" />
+      <workItem from="1600727283568" duration="1934000" />
+      <workItem from="1600733321383" duration="8094000" />
+      <workItem from="1600744467846" duration="3212000" />
+      <workItem from="1600759733549" duration="3880000" />
+      <workItem from="1600773952940" duration="2451000" />
+      <workItem from="1600812404816" duration="8435000" />
+      <workItem from="1600833228938" duration="22432000" />
+      <workItem from="1600910957445" duration="899000" />
+      <workItem from="1601005619296" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

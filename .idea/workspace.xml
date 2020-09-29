@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="" />
+    <list default="true" id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.scss" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hcOxZKBJIh7kWCB4bMuUBwDH7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -86,10 +95,27 @@
       <workItem from="1600833228938" duration="22432000" />
       <workItem from="1600910957445" duration="899000" />
       <workItem from="1601005619296" duration="2177000" />
+      <workItem from="1601264557314" duration="1264000" />
+      <workItem from="1601275566082" duration="161000" />
+      <workItem from="1601275865526" duration="158000" />
+      <workItem from="1601362564471" duration="3223000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

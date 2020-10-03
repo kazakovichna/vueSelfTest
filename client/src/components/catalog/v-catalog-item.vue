@@ -15,7 +15,9 @@
         </div>
         <div class="col item">
           <div class="row">
-           <h5>Price: {{product_data.price}}p.</h5>
+           <div class="row__price">
+            <h5>Price: {{product_data.price}}p.</h5>
+           </div>
           </div>
         </div>
         <div class="col item">

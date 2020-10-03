@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/assets/image/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/cart/v-cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/cart/v-cart.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/catalog/v-catalog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/catalog/v-catalog.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/catalog/v-catalog-item.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/catalog/v-catalog-item.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +96,8 @@
       <workItem from="1601275865526" duration="158000" />
       <workItem from="1601362564471" duration="3823000" />
       <workItem from="1601377740328" duration="1606000" />
-      <workItem from="1601693506175" duration="6334000" />
+      <workItem from="1601693506175" duration="6585000" />
+      <workItem from="1601710428386" duration="3470000" />
     </task>
     <task id="LOCAL-00001" summary="add flex">
       <created>1601366054333</created>
@@ -115,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601366054333</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add total cart cost">
+      <created>1601701841202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601701841202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +133,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add flex" />
-    <option name="LAST_COMMIT_MESSAGE" value="add flex" />
+    <MESSAGE value="add total cart cost" />
+    <option name="LAST_COMMIT_MESSAGE" value="add total cart cost" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="97" key="CommitChangelistDialog2" timestamp="1601701839859">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="168" y="97" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1601701839859" />
   </component>
 </project>

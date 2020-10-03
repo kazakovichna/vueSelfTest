@@ -22,7 +22,9 @@
       @delete_from_cart="delete_from_cart(index)"
     />
     <div class="total" v-if="cart_data.length">
-      <h2>Total: {{check_total}}</h2>
+      <div class="total__name">
+        <h2>Total: {{check_total}}</h2>
+      </div>
     </div>
   </div>
 </template>
@@ -57,15 +59,12 @@
           ]),
           undo(index) {
             this.UNDO(index)
-            this.check_total()
           },
           upper(index) {
             this.UPPER(index)
-            this.check_total()
           },
           delete_from_cart(index) {
             this.DELETE_FROM_CART(index)
-            this.check_total()
           }
       },
       computed: {

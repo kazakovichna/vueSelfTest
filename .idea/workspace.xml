@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a689e54-09f1-40d6-ac47-a6306840657f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/assets/image/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/image/6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/assets/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/assets/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/cart/v-cart.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/cart/v-cart.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/catalog/v-catalog.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/catalog/v-catalog.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,26 +37,20 @@
   </component>
   <component name="ProjectId" id="1hcOxZKBJIh7kWCB4bMuUBwDH7e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\SPORTS ALMANAC 1950 - 2000\vueSelfTest\client\src\assets\image" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -64,6 +69,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -98,24 +104,37 @@
       <workItem from="1601264557314" duration="1264000" />
       <workItem from="1601275566082" duration="161000" />
       <workItem from="1601275865526" duration="158000" />
-      <workItem from="1601362564471" duration="3223000" />
+      <workItem from="1601362564471" duration="3823000" />
+      <workItem from="1601377740328" duration="1606000" />
+      <workItem from="1601693506175" duration="6334000" />
     </task>
+    <task id="LOCAL-00001" summary="add flex">
+      <created>1601366054333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601366054333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add flex" />
+    <option name="LAST_COMMIT_MESSAGE" value="add flex" />
   </component>
 </project>

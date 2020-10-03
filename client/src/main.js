@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import store from "./vuex/store"
-import router from "./router/index";
+import router from "./router/index"
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './assets/styles.css'
 

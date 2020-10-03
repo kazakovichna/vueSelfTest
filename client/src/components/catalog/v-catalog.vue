@@ -43,10 +43,6 @@ import {mapActions, mapGetters} from 'vuex'
           ]),
           add_to_cart(data) {
               this.ADD_TO_CART(data);
-              console.log("Emitter work's")
-          },
-          sorted_by_category() {
-
           }
       },
       computed: {

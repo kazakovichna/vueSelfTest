@@ -21,6 +21,9 @@
       @upper="upper(index)"
       @delete_from_cart="delete_from_cart(index)"
     />
+    <div class="total" v-if="cart_data.length">
+      <h2>Total: {{check_total}}</h2>
+    </div>
   </div>
 </template>
 
@@ -42,7 +45,9 @@
           }
       },
       data() {
-          return{}
+          return{
+            "cart_total": 0
+          }
       },
       methods: {
           ...mapActions([
@@ -51,14 +56,36 @@
               'DELETE_FROM_CART'
           ]),
           undo(index) {
-              this.UNDO(index)
+            this.UNDO(index)
+            this.check_total()
           },
           upper(index) {
-              this.UPPER(index)
+            this.UPPER(index)
+            this.check_total()
           },
           delete_from_cart(index) {
-              this.DELETE_FROM_CART(index)
+            this.DELETE_FROM_CART(index)
+            this.check_total()
           }
+      },
+      computed: {
+        check_total() {
+          let total = [];
+
+          if(this.cart_data.length){
+            for (let item of this.cart_data) {
+              total.push(item.price * item.quantity)
+            }
+            total = total.reduce( function (sum, el) {
+              return sum + el;
+            });
+
+            return total;
+
+          } else {
+            return 0
+          }
+        }
       }
   }
 </script>
